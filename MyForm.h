@@ -2,15 +2,6 @@
 This Tool Have been designed by 
 
 Mohamed Alaa El-deen Mostafa Abd El hameed
-Sec: 1 
-ID: 18315
-Course Name: Digital Image Processing
-
-submitted to:
-
-Course Instructor
-Ass. Prof. Dr. Sabry
-Assistant Eng. Manar Fatooh
 
 */
 
